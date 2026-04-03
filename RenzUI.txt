@@ -44,7 +44,7 @@ Blue = {
 	}),
 	["Color Hub 2"] = Color3.fromRGB(25, 30, 35),
 	["Color Stroke"] = Color3.fromRGB(54, 69, 79),
-	["Color Theme"] = Color3.fromRGB(54, 69, 79),
+	["Color Theme"] = Color3.fromRGB(255, 255, 255),
 	["Color Text"] = Color3.fromRGB(255, 255, 255),
 	["Color Dark Text"] = Color3.fromRGB(255, 255, 255),
 	["Color Dark Blue"] = Color3.fromRGB(45, 55, 65),
